@@ -1,0 +1,27 @@
+{
+  "name": "p5.multiplayer-master",
+  "version": "1.0.0",
+  "description": "test p5.multiplayer",
+  "main": "server.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Gogo-Dp/p5multiplayer.test.git"
+  },
+  "author": "Agostina",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Gogo-Dp/p5multiplayer.test/issues"
+  },
+  "homepage": "https://github.com/Gogo-Dp/p5multiplayer.test#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "socket.io": "^4.0.1"
+  }
+}
